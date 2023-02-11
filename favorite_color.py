@@ -1,0 +1,8 @@
+name=input('What is your name? : ')
+print(f'Hello {name}! Tell me more about yourself.')
+place=input(f'Where are you from, {name}? : ')
+print(f'Awesome! {place} is a greate place.')
+color=input('What is your favorite color? :  ')
+print(f"{color} is a great color! Let's keep getting to know you.")
+hobbie=input(f'What is your prefer hobbie, {name}? : ')
+print(f'{name}, you are from the beautiful place of {place}. Your favorite color is {color}, great choice by the way :). And you favorite hobbie is {hobbie}. It was a pluser to meet you, {name}.')
