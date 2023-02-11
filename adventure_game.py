@@ -46,7 +46,7 @@ elif choice_6 == 'noise':
 
 print (choice_4 +' you went' + choice_5 + '. you followed' + choice_6)
 
-print ('You have make it back to the city safe!')
+print ('You have make it back to the city safe! :)')
 
 
 
